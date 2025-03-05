@@ -1,0 +1,3 @@
+"use strict";(self.webpackChunkrewards_catalog=self.webpackChunkrewards_catalog||[]).push([[3464],{"./node_modules/rc-pagination/es/locale/ca_ES.js":(s,e,_)=>{_.d(e,{A:()=>a});const a={items_per_page:"/ p\xE0gina",jump_to:"Anar a",jump_to_confirm:"Confirma",page:"",prev_page:"P\xE0gina pr\xE8via",next_page:"P\xE0gina seg\xFCent",prev_5:"5 p\xE0gines pr\xE8vies",next_5:"5 p\xE0gines seg\xFCents",prev_3:"3 p\xE0gines pr\xE8vies",next_3:"3 p\xE0gines seg\xFCents"}}}]);
+
+//# sourceMappingURL=3464.b8a29b90eda48165efab.chunk.js.map

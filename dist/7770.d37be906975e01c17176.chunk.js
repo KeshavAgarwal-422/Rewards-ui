@@ -1,0 +1,3 @@
+"use strict";(self.webpackChunkrewards_catalog=self.webpackChunkrewards_catalog||[]).push([[7770],{"./node_modules/rc-pagination/es/locale/ku_IQ.js":(a,e,_)=>{_.d(e,{A:()=>p});const p={items_per_page:"/ r\xFBpel",jump_to:"Bi\xE7e",jump_to_confirm:"pi\u015Ftrast bike",page:"",prev_page:"R\xFBpel\xEA P\xEA\u015F",next_page:"R\xFBpel\xEA Pa\u015F",prev_5:"5 R\xFBpel\xEAn P\xEA\u015F",next_5:"5 R\xFBpel\xEAn Pa\u015F",prev_3:"3 R\xFBpel\xEAn P\xEA\u015F",next_3:"3 R\xFBpel\xEAn Pa\u015F"}}}]);
+
+//# sourceMappingURL=7770.d37be906975e01c17176.chunk.js.map

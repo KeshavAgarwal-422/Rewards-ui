@@ -1,0 +1,3 @@
+"use strict";(self.webpackChunkrewards_catalog=self.webpackChunkrewards_catalog||[]).push([[1375],{"./node_modules/rc-pagination/es/locale/cs_CZ.js":(s,e,a)=>{a.d(e,{A:()=>_});const _={items_per_page:"/ strana",jump_to:"P\u0159ej\xEDt",jump_to_confirm:"potvrdit",page:"",prev_page:"P\u0159edchoz\xED strana",next_page:"N\xE1sleduj\xEDc\xED strana",prev_5:"P\u0159edchoz\xEDch 5 stran",next_5:"N\xE1sleduj\xEDc\xEDch 5 stran",prev_3:"P\u0159edchoz\xED 3 strany",next_3:"N\xE1sleduj\xEDc\xED 3 strany"}}}]);
+
+//# sourceMappingURL=1375.5c80284adb48845030b6.chunk.js.map

@@ -1,0 +1,3 @@
+"use strict";(self.webpackChunkrewards_catalog=self.webpackChunkrewards_catalog||[]).push([[9341],{"./node_modules/rc-pagination/es/locale/sl_SI.js":(_,e,a)=>{a.d(e,{A:()=>n});const n={items_per_page:"/ strani",jump_to:"Pojdi na",jump_to_confirm:"potrdi",page:"",prev_page:"Prej\u0161nja stran",next_page:"Naslednja stran",prev_5:"Prej\u0161njih 5 strani",next_5:"Naslednjih 5 strani",prev_3:"Prej\u0161nje 3 strani",next_3:"Naslednje 3 strani"}}}]);
+
+//# sourceMappingURL=9341.20b6d277420f79808aa9.chunk.js.map

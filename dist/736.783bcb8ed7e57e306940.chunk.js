@@ -1,0 +1,3 @@
+"use strict";(self.webpackChunkrewards_catalog=self.webpackChunkrewards_catalog||[]).push([[736],{"./node_modules/rc-pagination/es/locale/tr_TR.js":(n,a,e)=>{e.d(a,{A:()=>_});const _={items_per_page:"/ sayfa",jump_to:"Git",jump_to_confirm:"onayla",page:"",prev_page:"\xD6nceki Sayfa",next_page:"Sonraki Sayfa",prev_5:"\xD6nceki 5 Sayfa",next_5:"Sonraki 5 Sayfa",prev_3:"\xD6nceki 3 Sayfa",next_3:"Sonraki 3 Sayfa"}}}]);
+
+//# sourceMappingURL=736.783bcb8ed7e57e306940.chunk.js.map

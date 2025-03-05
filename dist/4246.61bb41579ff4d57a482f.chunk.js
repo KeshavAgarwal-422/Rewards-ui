@@ -1,0 +1,12 @@
+"use strict";(self.webpackChunkrewards_catalog=self.webpackChunkrewards_catalog||[]).push([[4246],{"./app/components/pages/ListRewards/ListRewards.js":(P,l,e)=>{e.r(l),e.d(l,{ListRewards:()=>o,default:()=>m});var _=e("./node_modules/@capillarytech/vulcan-react-sdk/utils/withStyles.js"),d=e("./node_modules/prop-types/index.js"),i=e.n(d),E=e("webpack/sharing/consume/default/react/react?e042"),r=e.n(E),O=e("./app/components/templates/PageTemplate/index.js"),p=e("./app/components/pages/ListRewards/styles.js");const o=({className:c})=>r().createElement(O.A,null,r().createElement("div",{className:c},r().createElement("h3",null,"This will be your listing page")));o.propTypes={className:i().string},o.defaultProps={className:""};const m=(0,_.A)(o,p.A)},"./app/components/pages/ListRewards/styles.js":(P,l,e)=>{e.d(l,{A:()=>d});var _=e("./node_modules/styled-components/dist/styled-components.browser.esm.js");const d=(0,_.AH)``},"./app/components/templates/PageTemplate/index.js":(P,l,e)=>{e.d(l,{A:()=>_.A});var _=e("./app/components/templates/PageTemplate/pageTemplate.js")},"./app/components/templates/PageTemplate/pageTemplate.js":(P,l,e)=>{e.d(l,{A:()=>f});var _=e("./node_modules/prop-types/index.js"),d=e.n(_),i=e("webpack/sharing/consume/default/react/react?e042"),E=e.n(i),r=e("./node_modules/styled-components/dist/styled-components.browser.esm.js"),O=Object.defineProperty,p=Object.getOwnPropertySymbols,o=Object.prototype.hasOwnProperty,m=Object.prototype.propertyIsEnumerable,c=(t,s,a)=>s in t?O(t,s,{enumerable:!0,configurable:!0,writable:!0,value:a}):t[s]=a,u=(t,s)=>{for(var a in s||(s={}))o.call(s,a)&&c(t,a,s[a]);if(p)for(var a of p(s))m.call(s,a)&&c(t,a,s[a]);return t},v=(t,s)=>{var a={};for(var n in t)o.call(t,n)&&s.indexOf(n)<0&&(a[n]=t[n]);if(t!=null&&p)for(var n of p(t))s.indexOf(n)<0&&m.call(t,n)&&(a[n]=t[n]);return a};const y=r.Ay.div`
+  display: flex;
+  flex-direction: column;
+  // min-height: 100vh;
+  box-sizing: border-box;
+  text-align: center;
+`,D=r.Ay.section`
+  width: 100%;
+  box-sizing: border-box;
+`,T=t=>{var s=t,{children:a}=s,n=v(s,["children"]);return E().createElement(y,u({},n),E().createElement(D,null,a))};T.propTypes={children:d().any.isRequired};const f=T}}]);
+
+//# sourceMappingURL=4246.61bb41579ff4d57a482f.chunk.js.map

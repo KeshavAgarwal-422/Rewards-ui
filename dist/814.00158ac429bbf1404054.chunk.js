@@ -1,0 +1,3 @@
+"use strict";(self.webpackChunkrewards_catalog=self.webpackChunkrewards_catalog||[]).push([[814],{"./node_modules/rc-pagination/es/locale/id_ID.js":(_,a,e)=>{e.d(a,{A:()=>n});const n={items_per_page:"/ halaman",jump_to:"Menuju",jump_to_confirm:"konfirmasi",page:"",prev_page:"Halaman Sebelumnya",next_page:"Halaman Berikutnya",prev_5:"5 Halaman Sebelumnya",next_5:"5 Halaman Berikutnya",prev_3:"3 Halaman Sebelumnya",next_3:"3 Halaman Berikutnya"}}}]);
+
+//# sourceMappingURL=814.00158ac429bbf1404054.chunk.js.map

@@ -1,0 +1,3 @@
+"use strict";(self.webpackChunkrewards_catalog=self.webpackChunkrewards_catalog||[]).push([[1296],{"./node_modules/rc-pagination/es/locale/da_DK.js":(a,e,_)=>{_.d(e,{A:()=>r});const r={items_per_page:"/ side",jump_to:"G\xE5 til",jump_to_confirm:"bekr\xE6ft",page:"",prev_page:"Forrige Side",next_page:"N\xE6ste Side",prev_5:"Forrige 5 Sider",next_5:"N\xE6ste 5 Sider",prev_3:"Forrige 3 Sider",next_3:"N\xE6ste 3 Sider"}}}]);
+
+//# sourceMappingURL=1296.9a534d47ac25eda7fdd9.chunk.js.map

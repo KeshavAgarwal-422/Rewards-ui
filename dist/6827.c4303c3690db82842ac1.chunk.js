@@ -1,0 +1,3 @@
+"use strict";(self.webpackChunkrewards_catalog=self.webpackChunkrewards_catalog||[]).push([[6827],{"./node_modules/rc-pagination/es/locale/nb_NO.js":(a,e,_)=>{_.d(e,{A:()=>s});const s={items_per_page:"/ side",jump_to:"G\xE5 til side",page:"",prev_page:"Forrige side",next_page:"Neste side",prev_5:"5 forrige",next_5:"5 neste",prev_3:"3 forrige",next_3:"3 neste"}}}]);
+
+//# sourceMappingURL=6827.c4303c3690db82842ac1.chunk.js.map

@@ -1,0 +1,3 @@
+"use strict";(self.webpackChunkrewards_catalog=self.webpackChunkrewards_catalog||[]).push([[5203],{"./node_modules/rc-pagination/es/locale/vi_VN.js":(n,e,_)=>{_.d(e,{A:()=>a});const a={items_per_page:"/ trang",jump_to:"\u0110\u1EBFn",jump_to_confirm:"x\xE1c nh\u1EADn",page:"",prev_page:"Trang Tr\u01B0\u1EDBc",next_page:"Trang K\u1EBF",prev_5:"V\u1EC1 5 Trang Tr\u01B0\u1EDBc",next_5:"\u0110\u1EBFn 5 Trang K\u1EBF",prev_3:"V\u1EC1 3 Trang Tr\u01B0\u1EDBc",next_3:"\u0110\u1EBFn 3 Trang K\u1EBF"}}}]);
+
+//# sourceMappingURL=5203.7d190e3e1d26745ebf3c.chunk.js.map

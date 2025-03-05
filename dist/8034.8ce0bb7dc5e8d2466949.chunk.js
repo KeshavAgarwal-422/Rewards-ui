@@ -1,0 +1,3 @@
+"use strict";(self.webpackChunkrewards_catalog=self.webpackChunkrewards_catalog||[]).push([[8034],{"./node_modules/rc-pagination/es/locale/hu_HU.js":(a,e,l)=>{l.d(e,{A:()=>_});const _={items_per_page:"/ oldal",jump_to:"Ugr\xE1s",jump_to_confirm:"meger\u0151s\xEDt",page:"",prev_page:"El\u0151z\u0151 oldal",next_page:"K\xF6vetkez\u0151 oldal",prev_5:"El\u0151z\u0151 5 oldal",next_5:"K\xF6vetkez\u0151 5 oldal",prev_3:"El\u0151z\u0151 3 oldal",next_3:"K\xF6vetkez\u0151 3 oldal"}}}]);
+
+//# sourceMappingURL=8034.8ce0bb7dc5e8d2466949.chunk.js.map

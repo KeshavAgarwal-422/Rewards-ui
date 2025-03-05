@@ -1,0 +1,3 @@
+"use strict";(self.webpackChunkrewards_catalog=self.webpackChunkrewards_catalog||[]).push([[9642],{"./node_modules/rc-pagination/es/locale/fi_FI.js":(s,e,a)=>{a.d(e,{A:()=>_});const _={items_per_page:"/ sivu",jump_to:"Mene",jump_to_confirm:"Potvrdite",page:"",prev_page:"Edellinen sivu",next_page:"Seuraava sivu",prev_5:"Edelliset 5 sivua",next_5:"Seuraavat 5 sivua",prev_3:"Edelliset 3 sivua",next_3:"Seuraavat 3 sivua"}}}]);
+
+//# sourceMappingURL=9642.b3b8013aaa8fa0213956.chunk.js.map

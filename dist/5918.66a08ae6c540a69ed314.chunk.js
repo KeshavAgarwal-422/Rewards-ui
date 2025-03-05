@@ -1,0 +1,3 @@
+"use strict";(self.webpackChunkrewards_catalog=self.webpackChunkrewards_catalog||[]).push([[5918],{"./node_modules/rc-pagination/es/locale/it_IT.js":(n,e,a)=>{a.d(e,{A:()=>_});const _={items_per_page:"/ pagina",jump_to:"vai a",jump_to_confirm:"Conferma",page:"",prev_page:"Pagina precedente",next_page:"Pagina successiva",prev_5:"Precedente 5 pagine",next_5:"Prossime 5 pagine",prev_3:"Precedente 3 pagine",next_3:"Prossime 3 pagine"}}}]);
+
+//# sourceMappingURL=5918.66a08ae6c540a69ed314.chunk.js.map

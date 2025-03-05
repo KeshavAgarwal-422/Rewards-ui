@@ -1,0 +1,3 @@
+"use strict";(self.webpackChunkrewards_catalog=self.webpackChunkrewards_catalog||[]).push([[7316],{"./node_modules/rc-pagination/es/locale/nl_NL.js":(n,e,a)=>{a.d(e,{A:()=>_});const _={items_per_page:"/ pagina",jump_to:"Ga naar",jump_to_confirm:"bevestigen",page:"",prev_page:"Vorige pagina",next_page:"Volgende pagina",prev_5:"Vorige 5 pagina's",next_5:"Volgende 5 pagina's",prev_3:"Vorige 3 pagina's",next_3:"Volgende 3 pagina's"}}}]);
+
+//# sourceMappingURL=7316.a061bc8b0a7a08edd0e1.chunk.js.map

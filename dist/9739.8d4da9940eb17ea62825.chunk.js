@@ -1,0 +1,3 @@
+"use strict";(self.webpackChunkrewards_catalog=self.webpackChunkrewards_catalog||[]).push([[9739],{"./node_modules/rc-pagination/es/locale/sv_SE.js":(a,e,_)=>{_.d(e,{A:()=>s});const s={items_per_page:"/ sida",jump_to:"G\xE5 till",jump_to_confirm:"bekr\xE4fta",page:"",prev_page:"F\xF6reg sida",next_page:"N\xE4sta sida",prev_5:"F\xF6reg 5 sidor",next_5:"N\xE4sta 5 sidor",prev_3:"F\xF6reg 3 sidor",next_3:"N\xE4sta 3 sidor"}}}]);
+
+//# sourceMappingURL=9739.8d4da9940eb17ea62825.chunk.js.map

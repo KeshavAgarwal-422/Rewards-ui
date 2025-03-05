@@ -1,0 +1,3 @@
+"use strict";(self.webpackChunkrewards_catalog=self.webpackChunkrewards_catalog||[]).push([[1772],{"./node_modules/rc-pagination/es/locale/is_IS.js":(s,a,e)=>{e.d(a,{A:()=>_});const _={items_per_page:"/ s\xED\xF0u",jump_to:"S\xED\xF0a",jump_to_confirm:"sta\xF0fest",page:"",prev_page:"Fyrri s\xED\xF0a",next_page:"N\xE6sta s\xED\xF0a",prev_5:"Til baka 5 s\xED\xF0ur",next_5:"\xC1fram 5 s\xED\xF0ur",prev_3:"Til baka 3 s\xED\xF0ur",next_3:"\xC1fram 3 s\xED\xF0ur"}}}]);
+
+//# sourceMappingURL=1772.88f45809510663b9b16e.chunk.js.map

@@ -1,0 +1,3 @@
+"use strict";(self.webpackChunkrewards_catalog=self.webpackChunkrewards_catalog||[]).push([[9307],{"./node_modules/rc-pagination/es/locale/zh_TW.js":(p,e,_)=>{_.d(e,{A:()=>a});const a={items_per_page:"\u689D/\u9801",jump_to:"\u8DF3\u81F3",jump_to_confirm:"\u78BA\u5B9A",page:"\u9801",prev_page:"\u4E0A\u4E00\u9801",next_page:"\u4E0B\u4E00\u9801",prev_5:"\u5411\u524D 5 \u9801",next_5:"\u5411\u5F8C 5 \u9801",prev_3:"\u5411\u524D 3 \u9801",next_3:"\u5411\u5F8C 3 \u9801"}}}]);
+
+//# sourceMappingURL=9307.8162c7eadaa6a5be531d.chunk.js.map

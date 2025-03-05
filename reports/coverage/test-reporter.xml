@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="/Users/keshavagarwal/Desktop/rewards-catalog-ui/app/components/molecules/SettingsCreateEditPopover/tests/SettingsCreateEditPopover.test.js">
+    <testCase name="&lt;SettingsCreateEditPopover /&gt; should render without crashing" duration="96"/>
+    <testCase name="&lt;SettingsCreateEditPopover /&gt; should display popover heading and input fields" duration="341"/>
+  </file>
+  <file path="/Users/keshavagarwal/Desktop/rewards-catalog-ui/app/components/pages/CustomFieldsSettings/tests/CustomFieldsListingTable.test.js">
+    <testCase name="CreateEditCustomField should render create button in LISTING mode" duration="218"/>
+    <testCase name="CreateEditCustomField should render delete confirmation modal in DELETE mode" duration="134"/>
+    <testCase name="CreateEditCustomField should handle slide box close with modifications" duration="81"/>
+    <testCase name="CreateEditCustomField should handle slide box close without modifications" duration="25"/>
+    <testCase name="CreateEditCustomField should handle done button click in CREATE mode" duration="20"/>
+    <testCase name="CreateEditCustomField should handle done button click in EDIT mode" duration="19"/>
+    <testCase name="CreateEditCustomField should handle cancel confirmation modal" duration="72"/>
+    <testCase name="CreateEditCustomField mapDispatchToProps should map dispatch to props correctly" duration="1"/>
+    <testCase name="CustomFieldsListingTable should render the table with data" duration="142"/>
+    <testCase name="CustomFieldsListingTable should show loading state when fetching data" duration="28"/>
+    <testCase name="CustomFieldsListingTable should handle row hover events" duration="113"/>
+    <testCase name="CustomFieldsListingTable shoul handle row click event" duration="66"/>
+    <testCase name="CustomFieldsListingTable should map dispatch to props correctly" duration="1"/>
+    <testCase name="CustomFieldsListingTable should applie correct row className based on hover state" duration="95"/>
+    <testCase name="CustomFieldsListingTable should handle empty custom fields list" duration="42"/>
+    <testCase name="CustomFieldsListingTable mapDispatchToProps should map dispatch to props correctly" duration="0"/>
+  </file>
+  <file path="/Users/keshavagarwal/Desktop/rewards-catalog-ui/app/components/pages/CustomFieldsSettings/tests/CreateEditCustomFieldDefaultValue.test.js">
+    <testCase name="CreateEditCustomField should render create button in LISTING mode" duration="213"/>
+    <testCase name="CreateEditCustomField should render delete confirmation modal in DELETE mode" duration="154"/>
+    <testCase name="CreateEditCustomField should handle slide box close with modifications" duration="86"/>
+    <testCase name="CreateEditCustomField should handle slide box close without modifications" duration="22"/>
+    <testCase name="CreateEditCustomField should handle done button click in CREATE mode" duration="17"/>
+    <testCase name="CreateEditCustomField should handle done button click in EDIT mode" duration="17"/>
+    <testCase name="CreateEditCustomField should handle cancel confirmation modal" duration="53"/>
+    <testCase name="CreateEditCustomField mapDispatchToProps should map dispatch to props correctly" duration="1"/>
+    <testCase name="CreateEditCustomFieldDefaultValue should handle string input correctly" duration="263"/>
+    <testCase name="CreateEditCustomFieldDefaultValue should handle integer input correctly" duration="36"/>
+    <testCase name="CreateEditCustomFieldDefaultValue should handle boolean input correctly" duration="164"/>
+    <testCase name="CreateEditCustomFieldDefaultValue should handle enum input correctly" duration="150"/>
+    <testCase name="CreateEditCustomFieldDefaultValue should handle reset functionality correctly" duration="31"/>
+    <testCase name="CreateEditCustomFieldDefaultValue mapDispatchToProps should map dispatch to props correctly" duration="1"/>
+  </file>
+  <file path="/Users/keshavagarwal/Desktop/rewards-catalog-ui/app/components/pages/CustomFieldsSettings/tests/CreateEditCustomFieldContent.test.js">
+    <testCase name="CreateEditCustomField should render create button in LISTING mode" duration="198"/>
+    <testCase name="CreateEditCustomField should render delete confirmation modal in DELETE mode" duration="135"/>
+    <testCase name="CreateEditCustomField should handle slide box close with modifications" duration="79"/>
+    <testCase name="CreateEditCustomField should handle slide box close without modifications" duration="21"/>
+    <testCase name="CreateEditCustomField should handle done button click in CREATE mode" duration="16"/>
+    <testCase name="CreateEditCustomField should handle done button click in EDIT mode" duration="21"/>
+    <testCase name="CreateEditCustomField should handle cancel confirmation modal" duration="52"/>
+    <testCase name="CreateEditCustomField mapDispatchToProps should map dispatch to props correctly" duration="1"/>
+    <testCase name="CreateEditCustomFieldContent should check if name operations are working as expected" duration="116"/>
+    <testCase name="CreateEditCustomFieldContent should check if scope operations are working as expected" duration="235"/>
+    <testCase name="CreateEditCustomFieldContent should check if data type operations are working as expected" duration="143"/>
+    <testCase name="CreateEditCustomFieldContent should check if enum values operations are working as expected" duration="173"/>
+    <testCase name="CreateEditCustomFieldContent should check if is mandatory operations are working as expected" duration="46"/>
+  </file>
+  <file path="/Users/keshavagarwal/Desktop/rewards-catalog-ui/app/components/pages/CustomFieldsSettings/tests/ViewCustomField.test.js">
+    <testCase name="CreateEditCustomField should render create button in LISTING mode" duration="76"/>
+    <testCase name="CreateEditCustomField should render delete confirmation modal in DELETE mode" duration="121"/>
+    <testCase name="CreateEditCustomField should handle slide box close with modifications" duration="75"/>
+    <testCase name="CreateEditCustomField should handle slide box close without modifications" duration="32"/>
+    <testCase name="CreateEditCustomField should handle done button click in CREATE mode" duration="27"/>
+    <testCase name="CreateEditCustomField should handle done button click in EDIT mode" duration="26"/>
+    <testCase name="CreateEditCustomField should handle cancel confirmation modal" duration="81"/>
+    <testCase name="CreateEditCustomField mapDispatchToProps should map dispatch to props correctly" duration="1"/>
+    <testCase name="ViewCustomField should render correctly with default props" duration="26"/>
+    <testCase name="ViewCustomField should handle Done button click" duration="52"/>
+    <testCase name="ViewCustomField should handle Edit button click" duration="45"/>
+    <testCase name="ViewCustomField should handle close button click" duration="26"/>
+    <testCase name="ViewCustomField mapDispatchToProps should map dispatch to props correctly" duration="0"/>
+  </file>
+  <file path="/Users/keshavagarwal/Desktop/rewards-catalog-ui/app/components/organisms/NavigationBar/tests/NavigationBar.test.js">
+    <testCase name="&lt;NavigationBar /&gt; should render without crashing" duration="172"/>
+    <testCase name="&lt;NavigationBar /&gt; should handle settings icon click when settings is enabled" duration="91"/>
+    <testCase name="&lt;NavigationBar /&gt; should handle top menu click" duration="46"/>
+  </file>
+  <file path="/Users/keshavagarwal/Desktop/rewards-catalog-ui/app/components/pages/CustomFieldsSettings/tests/saga.test.js">
+    <testCase name="CustomFieldsSettings Sagas getAllCustomFields Saga should handle successful API response" duration="5"/>
+    <testCase name="CustomFieldsSettings Sagas getAllCustomFields Saga should handle API failure response" duration="2"/>
+    <testCase name="CustomFieldsSettings Sagas getAllCustomFields Saga should handle API error" duration="3"/>
+    <testCase name="CustomFieldsSettings Sagas createCustomField Saga should handle successful creation" duration="80"/>
+    <testCase name="CustomFieldsSettings Sagas createCustomField Saga should handle duplicate name error" duration="3"/>
+    <testCase name="CustomFieldsSettings Sagas updateCustomField Saga should handle successful update" duration="9"/>
+    <testCase name="CustomFieldsSettings Sagas updateCustomField Saga should handle successful delete" duration="8"/>
+    <testCase name="CustomFieldsSettings Sagas updateCustomField Saga should handle duplicate name error" duration="3"/>
+    <testCase name="CustomFieldsSettings Sagas Watcher Sagas should watch for GET_ALL_CUSTOM_FIELDS_REQUEST" duration="253"/>
+    <testCase name="CustomFieldsSettings Sagas Watcher Sagas should watch for CREATE_CUSTOM_FIELD_REQUEST" duration="253"/>
+    <testCase name="CustomFieldsSettings Sagas Watcher Sagas should watch for UPDATE_CUSTOM_FIELD_REQUEST" duration="253"/>
+    <testCase name="CustomFieldsSettings Sagas Root Saga should fork all watcher sagas" duration="255"/>
+  </file>
+  <file path="/Users/keshavagarwal/Desktop/rewards-catalog-ui/app/components/pages/Cap/tests/Cap.test.js">
+    <testCase name="&lt;Cap /&gt; page should render Cap component correctly" duration="259"/>
+    <testCase name="&lt;Cap /&gt; page should render settings page when route is /settings" duration="53"/>
+    <testCase name="&lt;Cap /&gt; page should render access forbidden page when user does not have required permissions" duration="39"/>
+  </file>
+  <file path="/Users/keshavagarwal/Desktop/rewards-catalog-ui/app/components/pages/CustomFieldsSettings/tests/CreateEditCustomField.test.js">
+    <testCase name="CreateEditCustomField should render create button in LISTING mode" duration="42"/>
+    <testCase name="CreateEditCustomField should render delete confirmation modal in DELETE mode" duration="86"/>
+    <testCase name="CreateEditCustomField should handle slide box close with modifications" duration="68"/>
+    <testCase name="CreateEditCustomField should handle slide box close without modifications" duration="20"/>
+    <testCase name="CreateEditCustomField should handle done button click in CREATE mode" duration="19"/>
+    <testCase name="CreateEditCustomField should handle done button click in EDIT mode" duration="22"/>
+    <testCase name="CreateEditCustomField should handle cancel confirmation modal" duration="70"/>
+    <testCase name="CreateEditCustomField mapDispatchToProps should map dispatch to props correctly" duration="1"/>
+  </file>
+  <file path="/Users/keshavagarwal/Desktop/rewards-catalog-ui/app/components/pages/RewardsCatalogSettings/tests/RewardsCatalogSettings.test.js">
+    <testCase name="&lt;RewardsCatalogSettings /&gt; should render without crashing" duration="1299"/>
+    <testCase name="&lt;RewardsCatalogSettings /&gt; should call getSidebarMenuData on mount" duration="429"/>
+    <testCase name="&lt;RewardsCatalogSettings /&gt; should call clearSidebarMenuData on unmount" duration="240"/>
+    <testCase name="&lt;RewardsCatalogSettings /&gt; should redirect to default categories path if on default settings path" duration="317"/>
+    <testCase name="&lt;RewardsCatalogSettings /&gt; should render route components with correct heading prop" duration="157"/>
+    <testCase name="&lt;RewardsCatalogSettings /&gt; should bind the correct actions to dispatch" duration="1"/>
+  </file>
+  <file path="/Users/keshavagarwal/Desktop/rewards-catalog-ui/app/components/pages/Cap/tests/sagas.test.js">
+    <testCase name="getOrganizationDataAPI should return mockOrganizationData" duration="0"/>
+    <testCase name="getOrganizationData success -&gt; yields success" duration="7"/>
+    <testCase name="getOrganizationData success -&gt; yields api failures" duration="4"/>
+    <testCase name="getOrganizationData catch -&gt; yields error" duration="0"/>
+    <testCase name="watchForGetOrganizationData should call watcher" duration="1"/>
+  </file>
+  <file path="/Users/keshavagarwal/Desktop/rewards-catalog-ui/app/components/pages/CustomFieldsSettings/tests/reducer.test.js">
+    <testCase name="customFieldsSettingsReducer should return initial state" duration="1"/>
+    <testCase name="customFieldsSettingsReducer SET_MODE should handle SET_MODE for LISTING" duration="1"/>
+    <testCase name="customFieldsSettingsReducer SET_MODE should handle SET_MODE for EDIT with existing custom field" duration="1"/>
+    <testCase name="customFieldsSettingsReducer GET_ALL_CUSTOM_FIELDS actions should handle GET_ALL_CUSTOM_FIELDS_REQUEST" duration="1"/>
+    <testCase name="customFieldsSettingsReducer GET_ALL_CUSTOM_FIELDS actions should handle GET_ALL_CUSTOM_FIELDS_SUCCESS" duration="2"/>
+    <testCase name="customFieldsSettingsReducer GET_ALL_CUSTOM_FIELDS actions should handle GET_ALL_CUSTOM_FIELDS_FAILURE" duration="0"/>
+    <testCase name="customFieldsSettingsReducer Field update actions should handle SET_NAME" duration="0"/>
+    <testCase name="customFieldsSettingsReducer Field update actions should handle SET_SCOPE" duration="1"/>
+    <testCase name="customFieldsSettingsReducer Field update actions should handle SET_DATA_TYPE" duration="0"/>
+    <testCase name="customFieldsSettingsReducer ENUM_VALUE actions should handle ADD_ENUM_VALUE" duration="0"/>
+    <testCase name="customFieldsSettingsReducer ENUM_VALUE actions should handle REMOVE_ENUM_VALUE" duration="1"/>
+    <testCase name="customFieldsSettingsReducer Error handling actions should handle DUPLICATE_NAME_ERROR" duration="0"/>
+    <testCase name="customFieldsSettingsReducer Error handling actions should handle SET_ENUM_VALUE_ERROR" duration="0"/>
+    <testCase name="customFieldsSettingsReducer Additional field actions should handle SET_IS_MANDATORY" duration="0"/>
+    <testCase name="customFieldsSettingsReducer Additional field actions should handle SET_DEFAULT_VALUE" duration="1"/>
+    <testCase name="customFieldsSettingsReducer Additional field actions should handle SET_CUSTOM_FIELD_ID" duration="0"/>
+    <testCase name="customFieldsSettingsReducer Additional error handling should handle SET_DEFAULT_VALUE_ERROR" duration="0"/>
+    <testCase name="customFieldsSettingsReducer API status actions should handle CREATE_CUSTOM_FIELD_REQUEST/SUCCESS/FAILURE" duration="1"/>
+    <testCase name="customFieldsSettingsReducer API status actions should handle UPDATE_CUSTOM_FIELD_REQUEST/SUCCESS/FAILURE" duration="0"/>
+    <testCase name="customFieldsSettingsReducer should handle CLEAR_DATA" duration="0"/>
+    <testCase name="customFieldsSettingsReducer Filter and sorting actions should handle APPLY_FILTERS" duration="1"/>
+    <testCase name="customFieldsSettingsReducer Filter and sorting actions should handle SORT_LIST" duration="0"/>
+  </file>
+  <file path="/Users/keshavagarwal/Desktop/rewards-catalog-ui/app/components/pages/CustomFieldsSettings/tests/action.test.js">
+    <testCase name="CustomFieldsSettings actions should create an action to get all custom fields" duration="0"/>
+    <testCase name="CustomFieldsSettings actions should create an action to create custom field" duration="0"/>
+    <testCase name="CustomFieldsSettings actions should create an action to update custom field" duration="1"/>
+    <testCase name="CustomFieldsSettings actions should create an action to clear data" duration="0"/>
+    <testCase name="CustomFieldsSettings actions should create an action to set mode" duration="3"/>
+    <testCase name="CustomFieldsSettings actions should create an action to apply filters" duration="0"/>
+    <testCase name="CustomFieldsSettings actions should create an action to sort list" duration="0"/>
+    <testCase name="CustomFieldsSettings actions should create an action to set name" duration="1"/>
+    <testCase name="CustomFieldsSettings actions should create an action to set scope" duration="0"/>
+    <testCase name="CustomFieldsSettings actions should create an action to set data type" duration="0"/>
+    <testCase name="CustomFieldsSettings actions should create an action to set is mandatory" duration="0"/>
+    <testCase name="CustomFieldsSettings actions should create an action to set default value" duration="0"/>
+    <testCase name="CustomFieldsSettings actions should create an action to add enum value" duration="0"/>
+    <testCase name="CustomFieldsSettings actions should create an action to remove enum value" duration="0"/>
+    <testCase name="CustomFieldsSettings actions should create an action to set custom field id" duration="1"/>
+    <testCase name="CustomFieldsSettings actions should create an action to set duplicate name error" duration="0"/>
+    <testCase name="CustomFieldsSettings actions should create an action to set enum value error" duration="0"/>
+    <testCase name="CustomFieldsSettings actions should create an action to set default value error" duration="0"/>
+  </file>
+  <file path="/Users/keshavagarwal/Desktop/rewards-catalog-ui/app/components/pages/ListRewards/tests/saga.test.js">
+    <testCase name="Saga Expect to have saga tests specified" duration="1"/>
+  </file>
+  <file path="/Users/keshavagarwal/Desktop/rewards-catalog-ui/app/components/pages/CustomFieldsSettings/tests/ViewCustomFieldContent.test.js">
+    <testCase name="ViewCustomFieldContent should render basic field information" duration="80"/>
+    <testCase name="ViewCustomFieldContent should render mandatory switch" duration="42"/>
+    <testCase name="ViewCustomFieldContent should render default value when provided" duration="15"/>
+    <testCase name="ViewCustomFieldContent should render enum values with expand/collapse functionality" duration="57"/>
+    <testCase name="ViewCustomFieldContent should handle different scopes" duration="13"/>
+    <testCase name="ViewCustomFieldContent should handle different data types" duration="12"/>
+  </file>
+  <file path="/Users/keshavagarwal/Desktop/rewards-catalog-ui/app/components/pages/CustomFieldsSettings/tests/utils.test.js">
+    <testCase name="getFilteredCustomFields should return all fields when no filters are provided" duration="1"/>
+    <testCase name="getFilteredCustomFields should filter by scope" duration="0"/>
+    <testCase name="getFilteredCustomFields should filter by search term" duration="1"/>
+    <testCase name="getFilteredCustomFields should sort by lastUpdatedOn when sort is true" duration="9"/>
+    <testCase name="getFilteredCustomFields should handle null input" duration="1"/>
+    <testCase name="getCustomFieldCompletionStatus should return true for valid CREATE mode" duration="0"/>
+    <testCase name="getCustomFieldCompletionStatus should return false when processing request" duration="0"/>
+    <testCase name="getCustomFieldCompletionStatus should return false when has errors" duration="4"/>
+    <testCase name="getCustomFieldCompletionStatus should require defaultValue for mandatory fields" duration="0"/>
+    <testCase name="getCustomFieldCompletionStatus should require modification for EDIT mode" duration="0"/>
+    <testCase name="generateCustomFieldPayload should generate basic payload" duration="1"/>
+    <testCase name="generateCustomFieldPayload should include enumValues for ENUM type" duration="0"/>
+    <testCase name="generateCustomFieldPayload should set isActive false for DELETE mode" duration="0"/>
+  </file>
+  <file path="/Users/keshavagarwal/Desktop/rewards-catalog-ui/app/components/pages/Cap/tests/selectors.test.js">
+    <testCase name="makeSelectOrganizationTimezone should return the correct timezone" duration="1"/>
+  </file>
+  <file path="/Users/keshavagarwal/Desktop/rewards-catalog-ui/app/components/pages/ListRewards/tests/reducer.test.js">
+    <testCase name="Reducer Expect to have reducer tests specified" duration="0"/>
+  </file>
+  <file path="/Users/keshavagarwal/Desktop/rewards-catalog-ui/app/components/pages/Cap/tests/reducers.test.js">
+    <testCase name="capReducer handles GET_ORG_DETAILS_REQUEST" duration="0"/>
+    <testCase name="capReducer handles GET_ORG_DETAILS_SUCCESS" duration="1"/>
+    <testCase name="capReducer handles GET_ORG_DETAILS_FAILURE" duration="0"/>
+  </file>
+  <file path="/Users/keshavagarwal/Desktop/rewards-catalog-ui/app/components/pages/ListRewards/tests/ListRewards.test.js">
+    <testCase name="&lt;ListRewards /&gt; page renders the component" duration="18"/>
+  </file>
+</testExecutions>

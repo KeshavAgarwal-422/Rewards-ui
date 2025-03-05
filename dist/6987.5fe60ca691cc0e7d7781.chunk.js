@@ -1,0 +1,3 @@
+"use strict";(self.webpackChunkrewards_catalog=self.webpackChunkrewards_catalog||[]).push([[6987],{"./node_modules/rc-pagination/es/locale/ko_KR.js":(p,e,_)=>{_.d(e,{A:()=>a});const a={items_per_page:"/ \uCABD",jump_to:"\uC774\uB3D9\uD558\uAE30",jump_to_confirm:"\uD655\uC778\uD558\uB2E4",page:"",prev_page:"\uC774\uC804 \uD398\uC774\uC9C0",next_page:"\uB2E4\uC74C \uD398\uC774\uC9C0",prev_5:"\uC774\uC804 5 \uD398\uC774\uC9C0",next_5:"\uB2E4\uC74C 5 \uD398\uC774\uC9C0",prev_3:"\uC774\uC804 3 \uD398\uC774\uC9C0",next_3:"\uB2E4\uC74C 3 \uD398\uC774\uC9C0"}}}]);
+
+//# sourceMappingURL=6987.5fe60ca691cc0e7d7781.chunk.js.map

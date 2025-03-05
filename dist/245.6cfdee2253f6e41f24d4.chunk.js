@@ -1,0 +1,3 @@
+"use strict";(self.webpackChunkrewards_catalog=self.webpackChunkrewards_catalog||[]).push([[245],{"./node_modules/rc-pagination/es/locale/et_EE.js":(a,e,_)=>{_.d(e,{A:()=>l});const l={items_per_page:"/ lehek\xFCljel",jump_to:"H\xFCppa",jump_to_confirm:"Kinnitage",page:"",prev_page:"Eelmine leht",next_page:"J\xE4rgmine leht",prev_5:"Eelmised 5 lehek\xFClge",next_5:"J\xE4rgmised 5 lehek\xFClge",prev_3:"Eelmised 3 lehek\xFClge",next_3:"J\xE4rgmised 3 lehek\xFClge"}}}]);
+
+//# sourceMappingURL=245.6cfdee2253f6e41f24d4.chunk.js.map
